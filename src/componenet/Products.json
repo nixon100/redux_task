@@ -1,0 +1,92 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "iPhone 9",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.96,
+            "rating": 4.69,
+            "stock": 94,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111866_sp867-iphone-se-3gen.png",
+            "images": [
+                "https://i.dummyjson.com/data/products/1/1.jpg",
+                "https://i.dummyjson.com/data/products/1/2.jpg",
+                "https://i.dummyjson.com/data/products/1/3.jpg",
+                "https://i.dummyjson.com/data/products/1/4.jpg",
+                "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "iPhone X",
+            "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+            "price": 899,
+            "discountPercentage": 17.94,
+            "rating": 4.44,
+            "stock": 34,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111864_iphonex.png",
+            "images": [
+                "https://i.dummyjson.com/data/products/2/1.jpg",
+                "https://i.dummyjson.com/data/products/2/2.jpg",
+                "https://i.dummyjson.com/data/products/2/3.jpg",
+                "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Nokia Lumia 1020",
+            "description": "PureView Pro is an imaging technology used in the Nokia 1020 device",
+            "price": 1249,
+            "discountPercentage": 15.46,
+            "rating": 4.09,
+            "stock": 36,
+            "brand": "Nokia",
+            "category": "smartphones",
+            "thumbnail": "https://i.ebayimg.com/images/g/eAUAAOSwcvNkQSMs/s-l400.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/3/1.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Nokia N8",
+            "description": "Run on the Symbian^3 operating system",
+            "price": 280,
+            "discountPercentage": 17.91,
+            "rating": 4.3,
+            "stock": 123,
+            "brand": "Nokia",
+            "category": "smartphones",
+            "thumbnail": "https://i.ebayimg.com/images/g/eBAAAOSwpTBcH06C/s-l1600.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/4/1.jpg",
+                "https://i.dummyjson.com/data/products/4/2.jpg",
+                "https://i.dummyjson.com/data/products/4/3.jpg",
+                "https://i.dummyjson.com/data/products/4/4.jpg",
+                "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Nokia Lumia 800",
+            "description": " Nokia's first device to run the Windows Phone operating system",
+            "price": 499,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Nokia",
+            "category": "smartphones",
+            "thumbnail": "https://i.guim.co.uk/img/static/sys-images/Technology/Pix/pictures/2011/11/4/1320419088580/Nokia-Lumia-800-005.jpg?width=465&dpr=1&s=none",
+            "images": [
+                "https://i.dummyjson.com/data/products/5/1.jpg",
+                "https://i.dummyjson.com/data/products/5/2.jpg",
+                "https://i.dummyjson.com/data/products/5/3.jpg"
+            ]
+        }
+    ]
+}
